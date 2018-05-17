@@ -1,0 +1,17 @@
+{
+  "name": "modelo-sqlite",
+  "version": "0.0.0",
+  "description": "Exemplo do uso com SQlite",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^27.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "@expo/vector-icons": "6.2.1",
+    "axios": "0.18.0",
+    "react-native-elements": "0.18.5",
+    "react-native-router-flux": "4.0.0-beta.31"
+  }
+}
