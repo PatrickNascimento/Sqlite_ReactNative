@@ -1,4 +1,4 @@
-<b>React_MenuWithProps</b>
+<b>React_Sqlite</b>
 
 <b>English </b> </br>
 Simple Sample of SQlite </br>
@@ -9,4 +9,4 @@ Exemplo simples de SQLite </br>
 Veja o exemplo no EXPO : https://expo.io/@psn1462/snack-SykXJSs0M
 
 <b>Project Snack  </b>
-Veja o exemplo no EXPO : https://snack.expo.io/@psn1462/modelo-sqlite
+Veja o exemplo no Snack : https://snack.expo.io/@psn1462/modelo-sqlite
